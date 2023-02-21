@@ -17,7 +17,7 @@ Avant d'installer le projet, vous devez vous assurer d'avoir les éléments suiv
 Ouvrez un terminal et exécutez la commande suivante :
 
 ```
-https://github.com/danou294/morpion-react.git
+git clone https://github.com/danou294/morpion-react.git
 ```
 ***
 
